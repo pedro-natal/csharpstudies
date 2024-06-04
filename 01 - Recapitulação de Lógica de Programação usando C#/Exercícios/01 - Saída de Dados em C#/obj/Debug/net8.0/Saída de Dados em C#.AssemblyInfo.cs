@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Saídas de Dados em C#")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Saída de Dados em C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdfc566d60ec8879ad35f0ab139c4b839811724")]
-[assembly: System.Reflection.AssemblyProductAttribute("Saídas de Dados em C#")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Saídas de Dados em C#")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfcd09177c69289e5ae28a07612f617ed796317a")]
+[assembly: System.Reflection.AssemblyProductAttribute("Saída de Dados em C#")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Saída de Dados em C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

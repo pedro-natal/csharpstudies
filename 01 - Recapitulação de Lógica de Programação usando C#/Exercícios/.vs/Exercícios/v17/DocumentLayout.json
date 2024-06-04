@@ -1,12 +1,83 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A5C7A5-0D5C-4B2E-86F4-D9064833F0CF}|Entrada de Dados em C#\\Entrada de Dados em C#.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\cursos\\c# - nelio alves\\csharpstudies\\01 - recapitula\u00E7\u00E3o de l\u00F3gica de programa\u00E7\u00E3o usando c#\\exerc\u00EDcios\\entrada de dados em c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A5C7A5-0D5C-4B2E-86F4-D9064833F0CF}|Entrada de Dados em C#\\Entrada de Dados em C#.csproj|solutionrelative:entrada de dados em c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\01 - Sa\u00EDdas de Dados em C#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01 - Sa\u00EDdas de Dados em C#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\Sa\u00EDdas de Dados em C#\\Sa\u00EDdas de Dados em C#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sa\u00EDdas de Dados em C#\\Sa\u00EDdas de Dados em C#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\Sa\u00EDdas de Dados em C#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sa\u00EDdas de Dados em C#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\Entrada de Dados em C#\\Program.cs",
+              "RelativeDocumentMoniker": "Entrada de Dados em C#\\Program.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\Entrada de Dados em C#\\Program.cs",
+              "RelativeToolTip": "Entrada de Dados em C#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:42:03.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\01 - Sa\u00EDdas de Dados em C#\\Program.cs",
+              "RelativeDocumentMoniker": "01 - Sa\u00EDdas de Dados em C#\\Program.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\01 - Sa\u00EDdas de Dados em C#\\Program.cs",
+              "RelativeToolTip": "01 - Sa\u00EDdas de Dados em C#\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:40:07.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sa\u00EDdas de Dados em C#.csproj",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\Sa\u00EDdas de Dados em C#\\Sa\u00EDdas de Dados em C#.csproj",
+              "RelativeDocumentMoniker": "Sa\u00EDdas de Dados em C#\\Sa\u00EDdas de Dados em C#.csproj",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\Sa\u00EDdas de Dados em C#\\Sa\u00EDdas de Dados em C#.csproj",
+              "RelativeToolTip": "Sa\u00EDdas de Dados em C#\\Sa\u00EDdas de Dados em C#.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T00:29:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\Sa\u00EDdas de Dados em C#\\Program.cs",
+              "RelativeDocumentMoniker": "Sa\u00EDdas de Dados em C#\\Program.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\Cursos\\C# - Nelio Alves\\csharpstudies\\01 - Recapitula\u00E7\u00E3o de L\u00F3gica de Programa\u00E7\u00E3o usando C#\\Exerc\u00EDcios\\Sa\u00EDdas de Dados em C#\\Program.cs",
+              "RelativeToolTip": "Sa\u00EDdas de Dados em C#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:05:36.114Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
