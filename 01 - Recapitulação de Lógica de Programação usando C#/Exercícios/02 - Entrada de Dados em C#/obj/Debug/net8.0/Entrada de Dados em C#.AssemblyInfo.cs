@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Entrada de Dados em C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfcd09177c69289e5ae28a07612f617ed796317a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50ddfb0da2338b0486eef58ddd7dfd27014e08a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Entrada de Dados em C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Entrada de Dados em C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

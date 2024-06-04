@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Saída de Dados em C#", "01 - Saída de Dados em C#\Saída de Dados em C#.csproj", "{A667FF76-EA10-47B7-8DCB-76D4C771B64F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entrada de Dados em C#", "Entrada de Dados em C#\Entrada de Dados em C#.csproj", "{66A5C7A5-0D5C-4B2E-86F4-D9064833F0CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entrada de Dados em C#", "02 - Entrada de Dados em C#\Entrada de Dados em C#.csproj", "{12C04EEE-D1B3-4B6D-8D71-2275261FC73F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A667FF76-EA10-47B7-8DCB-76D4C771B64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A667FF76-EA10-47B7-8DCB-76D4C771B64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A667FF76-EA10-47B7-8DCB-76D4C771B64F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{66A5C7A5-0D5C-4B2E-86F4-D9064833F0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66A5C7A5-0D5C-4B2E-86F4-D9064833F0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66A5C7A5-0D5C-4B2E-86F4-D9064833F0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66A5C7A5-0D5C-4B2E-86F4-D9064833F0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C04EEE-D1B3-4B6D-8D71-2275261FC73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C04EEE-D1B3-4B6D-8D71-2275261FC73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C04EEE-D1B3-4B6D-8D71-2275261FC73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C04EEE-D1B3-4B6D-8D71-2275261FC73F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
