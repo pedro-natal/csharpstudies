@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02 - Classes, atributos, métodos, membros estáticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f37b300287f9de4889147377b0d9a0d0ca4e51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72dc7feed4899de972c2d5762658c180208dd884")]
 [assembly: System.Reflection.AssemblyProductAttribute("02 - Classes, atributos, métodos, membros estáticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02 - Classes, atributos, métodos, membros estáticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,26 +1,22 @@
-﻿namespace _02___Classes__atributos__métodos__membros_estáticos
+﻿using System.Globalization;
+
+namespace _02___Classes__atributos__métodos__membros_estáticos
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Pessoa p1 = new Pessoa();
-            Pessoa p2 = new Pessoa();
+            Retangulo ret = new Retangulo();
 
-            Console.WriteLine("Dados da primeira pessoa:");
-            Console.Write("Nome: ");
-            p1.Nome = Console.ReadLine();
-            Console.Write("Idade: ");
-            p1.Idade = int.Parse(Console.ReadLine());
+            Console.WriteLine("Entre com a largura e altura do retângulo");
+            ret.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            ret.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Dados da segunda pessoa:");
-            Console.Write("Nome: ");
-            p2.Nome = Console.ReadLine();
-            Console.Write("Idade: ");
-            p2.Idade = int.Parse(Console.ReadLine());
+            Console.WriteLine("AREA = " + ret.Area().ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("PERIMETRO = " + ret.Perimetro().ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("DIAGONAL = " + ret.Diagonal().ToString("F2", CultureInfo.InvariantCulture));
 
-            if (p1.Idade > p2.Idade) { Console.WriteLine("Pessoa mais velha:" + p1.Nome); }
-            else { Console.WriteLine("Pessoa mais velha:" + p2.Nome); }
+
         }
     }
 }

@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{9A76F64C-61AA-45DF-8539-460854FBB5C1}|02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A76F64C-61AA-45DF-8539-460854FBB5C1}|02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\02 - classes, atributos, m\u00E9todos, membros est\u00E1ticos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A76F64C-61AA-45DF-8539-460854FBB5C1}|02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A76F64C-61AA-45DF-8539-460854FBB5C1}|02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\02 - classes, atributos, m\u00E9todos, membros est\u00E1ticos\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76F64C-61AA-45DF-8539-460854FBB5C1}|02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos.csproj|solutionrelative:retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Pessoa.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos\\Pessoa.cs",
-              "RelativeToolTip": "Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Retangulo.cs",
+              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos\\Retangulo.cs",
+              "RelativeToolTip": "Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T18:34:30.723Z",
               "EditorCaption": ""
@@ -39,9 +39,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\02 - Classes, atributos, m\u00E9todos, membros est\u00E1ticos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T17:36:18.665Z",
               "EditorCaption": ""
