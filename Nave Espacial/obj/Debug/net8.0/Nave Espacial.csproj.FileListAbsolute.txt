@@ -1,0 +1,15 @@
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\bin\Debug\net8.0\Nave Espacial.exe
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\bin\Debug\net8.0\Nave Espacial.deps.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\bin\Debug\net8.0\Nave Espacial.runtimeconfig.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\bin\Debug\net8.0\Nave Espacial.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\bin\Debug\net8.0\Nave Espacial.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\Nave Espacial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\Nave Espacial.AssemblyInfoInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\Nave Espacial.AssemblyInfo.cs
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\Nave Espacial.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\Nave Espacial.sourcelink.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\Nave Espacial.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\refint\Nave Espacial.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\Nave Espacial.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\Nave Espacial.genruntimeconfig.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\Nave Espacial\obj\Debug\net8.0\ref\Nave Espacial.dll

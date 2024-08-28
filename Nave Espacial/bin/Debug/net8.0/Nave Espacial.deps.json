@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Nave Espacial/1.0.0": {
+        "runtime": {
+          "Nave Espacial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nave Espacial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
