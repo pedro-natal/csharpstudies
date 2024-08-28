@@ -1,10 +1,8 @@
 ﻿namespace _03___Construtores__palavra_this__sobrecarga__encapsulamento
 {
-    class Program
+    class ContaBancaria
     {
-        static void Main(string[] args)
-        {
 
-        }
+
     }
 }

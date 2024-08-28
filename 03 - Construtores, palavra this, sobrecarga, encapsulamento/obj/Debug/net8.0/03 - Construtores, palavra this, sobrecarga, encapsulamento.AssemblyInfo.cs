@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03 - Construtores, palavra this, sobrecarga, encapsulamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f93b91a371645a1fcbf9b9e03cf9dd714537d8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68814ec79236835d917de43ea1491dd2760de9d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("03 - Construtores, palavra this, sobrecarga, encapsulamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03 - Construtores, palavra this, sobrecarga, encapsulamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

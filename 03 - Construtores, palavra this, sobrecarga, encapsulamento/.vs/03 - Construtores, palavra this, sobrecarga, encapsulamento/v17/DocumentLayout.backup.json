@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{56B4422F-A2DF-4065-A985-BE3FEA590695}|03 - Construtores, palavra this, sobrecarga, encapsulamento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56B4422F-A2DF-4065-A985-BE3FEA590695}|03 - Construtores, palavra this, sobrecarga, encapsulamento.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\03 - construtores, palavra this, sobrecarga, encapsulamento\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B4422F-A2DF-4065-A985-BE3FEA590695}|03 - Construtores, palavra this, sobrecarga, encapsulamento.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56B4422F-A2DF-4065-A985-BE3FEA590695}|03 - Construtores, palavra this, sobrecarga, encapsulamento.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\03 - construtores, palavra this, sobrecarga, encapsulamento\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B4422F-A2DF-4065-A985-BE3FEA590695}|03 - Construtores, palavra this, sobrecarga, encapsulamento.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\03 - Construtores, palavra this, sobrecarga, encapsulamento\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T17:57:54.626Z",
               "EditorCaption": ""
@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\03 - Construtores, palavra this, sobrecarga, encapsulamento\\Produto.cs",
-              "RelativeDocumentMoniker": "Produto.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\03 - Construtores, palavra this, sobrecarga, encapsulamento\\Produto.cs",
-              "RelativeToolTip": "Produto.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAIAAAAAAAAAAAAAAA==",
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\03 - Construtores, palavra this, sobrecarga, encapsulamento\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\03 - Construtores, palavra this, sobrecarga, encapsulamento\\ContaBancaria.cs",
+              "RelativeToolTip": "ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:05:08.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T18:05:08.624Z"
             }
           ]
         }
