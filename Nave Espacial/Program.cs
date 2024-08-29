@@ -9,10 +9,45 @@ if (menu == 1)
     Console.WriteLine("1- Cadastrar Tripulantes");
     Console.WriteLine("2- Listar Tripulantes");
     Console.WriteLine("3- Deletar Tripulantes");
+    int submenu = int.Parse(Console.ReadLine());
+
+    if (submenu == 1)
+    {
+        Console.WriteLine("Cadastro de Tripulantes:");
+    }
+    else if (submenu == 2)
+    {
+        Console.WriteLine("Lista de Tripulantes:");
+
+    }
+    else if (submenu == 3)
+    {
+        Console.WriteLine("Deletar Tripulantes:");
+    }
 }
-else
+else if (menu == 2)
 {
     Console.WriteLine("1- Cadastrar Destinos");
     Console.WriteLine("2- Listar Destinos");
     Console.WriteLine("3- Deletar Destinos");
+    int submenu = int.Parse(Console.ReadLine());
+
+    if (submenu == 1)
+    {
+        Console.WriteLine("Cadastro de Destinos:");
+    }
+    else if (submenu == 2)
+    {
+        Console.WriteLine("Lista de Destinos:");
+
+    }
+    else if (submenu == 3)
+    {
+        Console.WriteLine("Deletar Destinos:");
+    }
+}
+
+else
+{
+    Console.WriteLine("Entrada inválida");
 }
