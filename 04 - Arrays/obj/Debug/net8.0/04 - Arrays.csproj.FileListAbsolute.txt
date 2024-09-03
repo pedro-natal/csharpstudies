@@ -1,0 +1,15 @@
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Arrays.exe
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Arrays.deps.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Arrays.runtimeconfig.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Arrays.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Arrays.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Arrays.AssemblyInfoInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Arrays.AssemblyInfo.cs
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Arrays.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Arrays.sourcelink.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Arrays.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\refint\04 - Arrays.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Arrays.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Arrays.genruntimeconfig.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\ref\04 - Arrays.dll

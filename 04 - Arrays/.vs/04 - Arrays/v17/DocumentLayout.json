@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\04 - Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AAE032D-F500-498A-A118-AEF344914481}|04 - Arrays.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\04 - arrays\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAE032D-F500-498A-A118-AEF344914481}|04 - Arrays.csproj|solutionrelative:estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AAE032D-F500-498A-A118-AEF344914481}|04 - Arrays.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\04 - arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AAE032D-F500-498A-A118-AEF344914481}|04 - Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\04 - Arrays\\Estudante.cs",
+              "RelativeDocumentMoniker": "Estudante.cs",
+              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\04 - Arrays\\Estudante.cs",
+              "RelativeToolTip": "Estudante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:40:30.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\04 - Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\04 - Arrays\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T20:27:49.264Z",
               "EditorCaption": ""
