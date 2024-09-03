@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\04 - Arrays\\04 - Vetores.csproj",
-      "projectName": "04 - Vetores",
-      "projectPath": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\04 - Arrays\\04 - Vetores.csproj",
+      "projectUniqueName": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\05 - Listas\\05 - Listas.csproj",
+      "projectName": "05 - Listas",
+      "projectPath": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\05 - Listas\\05 - Listas.csproj",
       "packagesPath": "C:\\Users\\pepel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\04 - Arrays\\obj\\",
+      "outputPath": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\05 - Listas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pepel\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,4 @@
-﻿namespace _04___Arrays
+﻿namespace _04___Vetores
 {
     internal class Estudante
     {

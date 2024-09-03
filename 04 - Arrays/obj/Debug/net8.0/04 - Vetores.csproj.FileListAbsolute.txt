@@ -1,0 +1,15 @@
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Vetores.AssemblyInfoInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Vetores.AssemblyInfo.cs
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Vetores.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Vetores.sourcelink.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Vetores.exe
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Vetores.deps.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Vetores.runtimeconfig.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Vetores.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\bin\Debug\net8.0\04 - Vetores.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Vetores.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\refint\04 - Vetores.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Vetores.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\04 - Vetores.genruntimeconfig.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\04 - Arrays\obj\Debug\net8.0\ref\04 - Vetores.dll

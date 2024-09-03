@@ -1,4 +1,4 @@
-﻿namespace _04___Arrays
+﻿namespace _04___Vetores
 {
     class Program
     {
