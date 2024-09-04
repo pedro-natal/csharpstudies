@@ -1,0 +1,15 @@
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\bin\Debug\net8.0\06 - Matrizes.exe
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\bin\Debug\net8.0\06 - Matrizes.deps.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\bin\Debug\net8.0\06 - Matrizes.runtimeconfig.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\bin\Debug\net8.0\06 - Matrizes.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\bin\Debug\net8.0\06 - Matrizes.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\06 - Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\06 - Matrizes.AssemblyInfoInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\06 - Matrizes.AssemblyInfo.cs
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\06 - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\06 - Matrizes.sourcelink.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\06 - Matrizes.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\refint\06 - Matrizes.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\06 - Matrizes.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\06 - Matrizes.genruntimeconfig.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\06 - Matrizes\obj\Debug\net8.0\ref\06 - Matrizes.dll
