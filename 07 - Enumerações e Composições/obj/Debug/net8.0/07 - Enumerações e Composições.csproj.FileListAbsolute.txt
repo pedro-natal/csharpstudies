@@ -1,0 +1,15 @@
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\bin\Debug\net8.0\07 - Enumerações e Composições.exe
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\bin\Debug\net8.0\07 - Enumerações e Composições.deps.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\bin\Debug\net8.0\07 - Enumerações e Composições.runtimeconfig.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\bin\Debug\net8.0\07 - Enumerações e Composições.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\bin\Debug\net8.0\07 - Enumerações e Composições.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\07 - Enumerações e Composições.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\07 - Enumerações e Composições.AssemblyInfoInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\07 - Enumerações e Composições.AssemblyInfo.cs
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\07 - Enumerações e Composições.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\07 - Enumerações e Composições.sourcelink.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\07 - Enumerações e Composições.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\refint\07 - Enumerações e Composições.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\07 - Enumerações e Composições.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\07 - Enumerações e Composições.genruntimeconfig.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\07 - Enumerações e Composições\obj\Debug\net8.0\ref\07 - Enumerações e Composições.dll
