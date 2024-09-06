@@ -1,0 +1,15 @@
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\08 - Herança e Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\08 - Herança e Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\08 - Herança e Polimorfismo.AssemblyInfo.cs
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\08 - Herança e Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\08 - Herança e Polimorfismo.sourcelink.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\bin\Debug\net8.0\08 - Herança e Polimorfismo.exe
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\bin\Debug\net8.0\08 - Herança e Polimorfismo.deps.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\bin\Debug\net8.0\08 - Herança e Polimorfismo.runtimeconfig.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\bin\Debug\net8.0\08 - Herança e Polimorfismo.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\bin\Debug\net8.0\08 - Herança e Polimorfismo.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\08 - Herança e Polimorfismo.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\refint\08 - Herança e Polimorfismo.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\08 - Herança e Polimorfismo.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\08 - Herança e Polimorfismo.genruntimeconfig.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\08 - Herança e Polimorfismo\obj\Debug\net8.0\ref\08 - Herança e Polimorfismo.dll
