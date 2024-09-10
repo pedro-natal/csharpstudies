@@ -1,0 +1,15 @@
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\09 - Métodos Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\09 - Métodos Abstratos.AssemblyInfoInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\09 - Métodos Abstratos.AssemblyInfo.cs
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\09 - Métodos Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\09 - Métodos Abstratos.sourcelink.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\bin\Debug\net8.0\09 - Métodos Abstratos.exe
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\bin\Debug\net8.0\09 - Métodos Abstratos.deps.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\bin\Debug\net8.0\09 - Métodos Abstratos.runtimeconfig.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\bin\Debug\net8.0\09 - Métodos Abstratos.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\bin\Debug\net8.0\09 - Métodos Abstratos.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\09 - Métodos Abstratos.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\refint\09 - Métodos Abstratos.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\09 - Métodos Abstratos.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\09 - Métodos Abstratos.genruntimeconfig.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\09 - Métodos Abstratos\obj\Debug\net8.0\ref\09 - Métodos Abstratos.dll
