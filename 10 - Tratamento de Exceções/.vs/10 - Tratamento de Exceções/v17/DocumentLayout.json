@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6988666F-1B97-45E8-A039-DD391EB850E8}|10 - Tratamento de Exce\u00E7\u00F5es.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\10 - tratamento de exce\u00E7\u00F5es\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6988666F-1B97-45E8-A039-DD391EB850E8}|10 - Tratamento de Exce\u00E7\u00F5es.csproj|solutionrelative:entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6988666F-1B97-45E8-A039-DD391EB850E8}|10 - Tratamento de Exce\u00E7\u00F5es.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\10 - tratamento de exce\u00E7\u00F5es\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6988666F-1B97-45E8-A039-DD391EB850E8}|10 - Tratamento de Exce\u00E7\u00F5es.csproj|solutionrelative:entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\10 - Tratamento de Exce\u00E7\u00F5es\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\10 - Tratamento de Exce\u00E7\u00F5es\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:56:54.914Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Entities\\Reservation.cs",
               "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\10 - Tratamento de Exce\u00E7\u00F5es\\Entities\\Reservation.cs",
               "RelativeToolTip": "Entities\\Reservation.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T13:51:14.284Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\10 - Tratamento de Exce\u00E7\u00F5es\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T13:50:43.017Z",
               "EditorCaption": ""
