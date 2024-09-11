@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "10 - Tratamento de Exceções/1.0.0": {
+        "runtime": {
+          "10 - Tratamento de Exceções.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10 - Tratamento de Exceções/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

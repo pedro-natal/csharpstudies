@@ -1,0 +1,15 @@
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\bin\Debug\net8.0\10 - Tratamento de Exceções.exe
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\bin\Debug\net8.0\10 - Tratamento de Exceções.deps.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\bin\Debug\net8.0\10 - Tratamento de Exceções.runtimeconfig.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\bin\Debug\net8.0\10 - Tratamento de Exceções.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\bin\Debug\net8.0\10 - Tratamento de Exceções.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\10 - Tratamento de Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\10 - Tratamento de Exceções.AssemblyInfoInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\10 - Tratamento de Exceções.AssemblyInfo.cs
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\10 - Tratamento de Exceções.csproj.CoreCompileInputs.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\10 - Tratamento de Exceções.sourcelink.json
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\10 - Tratamento de Exceções.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\refint\10 - Tratamento de Exceções.dll
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\10 - Tratamento de Exceções.pdb
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\10 - Tratamento de Exceções.genruntimeconfig.cache
+C:\Users\pepel\OneDrive\2015\Documentos\Desenvolvimento\C#\csharpstudies\10 - Tratamento de Exceções\obj\Debug\net8.0\ref\10 - Tratamento de Exceções.dll
