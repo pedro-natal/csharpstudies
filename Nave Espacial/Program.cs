@@ -1,53 +1,28 @@
-﻿Console.WriteLine("Bem-vindo ao nosso sistema!");
+﻿using Nave_Espacial.Entities;
+using Nave_Espacial.Entities.Enums;
+
+Console.WriteLine("Bem-vindo ao nosso sistema!");
 Console.WriteLine("Para começar, digite o número do setor que deseja acessar:");
 Console.WriteLine("1 - Tripulantes");
 Console.WriteLine("2 - Destinos");
-int menu = int.Parse(Console.ReadLine());
 
-if (menu == 1)
+
+if (Enum.TryParse<OpcaoMenu>(Console.ReadLine(), out OpcaoMenu menu))
 {
-    Console.WriteLine("1- Cadastrar Tripulantes");
-    Console.WriteLine("2- Listar Tripulantes");
-    Console.WriteLine("3- Deletar Tripulantes");
-    int submenu = int.Parse(Console.ReadLine());
-
-    if (submenu == 1)
+    switch (menu)
     {
-        Console.WriteLine("Cadastro de Tripulantes:");
-    }
-    else if (submenu == 2)
-    {
-        Console.WriteLine("Lista de Tripulantes:");
-
-    }
-    else if (submenu == 3)
-    {
-        Console.WriteLine("Deletar Tripulantes:");
+        case OpcaoMenu.Tripulantes:
+            MenuTripulantes.ExibirMenuTripulantes();
+            break;
+        case OpcaoMenu.Destinos:
+            MenuDestinos.ExibirMenuDestinos();
+            break;
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
     }
 }
-else if (menu == 2)
-{
-    Console.WriteLine("1- Cadastrar Destinos");
-    Console.WriteLine("2- Listar Destinos");
-    Console.WriteLine("3- Deletar Destinos");
-    int submenu = int.Parse(Console.ReadLine());
-
-    if (submenu == 1)
-    {
-        Console.WriteLine("Cadastro de Destinos:");
-    }
-    else if (submenu == 2)
-    {
-        Console.WriteLine("Lista de Destinos:");
-
-    }
-    else if (submenu == 3)
-    {
-        Console.WriteLine("Deletar Destinos:");
-    }
-}
-
 else
 {
-    Console.WriteLine("Entrada inválida");
+    Console.WriteLine("Opção inválida");
 }
