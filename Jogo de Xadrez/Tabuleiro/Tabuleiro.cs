@@ -1,4 +1,4 @@
-﻿namespace Jogo_de_Xadrez.Tabuleiro
+﻿namespace Jogo_de_Xadrez
 {
     internal class Tabuleiro
     {
@@ -11,6 +11,11 @@
             this.linhas = linha;
             this.colunas = colunas;
             pecas = new Peca[linhas, colunas];
+        }
+
+        public Peca peca(int linha, int coluna)
+        {
+            return pecas[linha, coluna];
         }
     }
 }
