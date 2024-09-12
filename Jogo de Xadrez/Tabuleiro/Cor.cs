@@ -1,4 +1,4 @@
-﻿namespace Jogo_de_Xadrez
+﻿namespace tabuleiro
 {
     enum Cor
     {

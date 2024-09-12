@@ -1,4 +1,6 @@
-﻿namespace Jogo_de_Xadrez
+﻿using tabuleiro;
+
+namespace Jogo_de_Xadrez
 {
     internal class Tela
     {
@@ -14,7 +16,7 @@
                     }
                     else
                     {
-                        Console.Write(tab.peca + " ");
+                        Console.Write(tab.peca(i, j) + " ");
                     }
                 }
                 Console.WriteLine();
