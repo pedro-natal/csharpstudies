@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Jogo de Xadrez.csproj": {}
+    "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Jogo de Xadrez.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Jogo de Xadrez.csproj": {
+    "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Jogo de Xadrez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Jogo de Xadrez.csproj",
+        "projectUniqueName": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Jogo de Xadrez.csproj",
         "projectName": "Jogo de Xadrez",
-        "projectPath": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Jogo de Xadrez.csproj",
+        "projectPath": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Jogo de Xadrez.csproj",
         "packagesPath": "C:\\Users\\pepel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\obj\\",
+        "outputPath": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\pepel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
