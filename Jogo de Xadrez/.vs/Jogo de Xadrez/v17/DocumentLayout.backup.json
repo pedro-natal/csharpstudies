@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,16 +62,16 @@
               "Title": "PartidaDeXadrez.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\PartidaDeXadrez.cs",
               "RelativeDocumentMoniker": "xadrez\\PartidaDeXadrez.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\PartidaDeXadrez.cs",
-              "RelativeToolTip": "xadrez\\PartidaDeXadrez.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAQwM0AAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\PartidaDeXadrez.cs*",
+              "RelativeToolTip": "xadrez\\PartidaDeXadrez.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T13:50:37.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -79,24 +79,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:06:41.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Peca.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Peca.cs",
-              "RelativeDocumentMoniker": "tabuleiro\\Peca.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Peca.cs",
-              "RelativeToolTip": "tabuleiro\\Peca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:43:06.944Z"
+              "WhenOpened": "2024-09-12T14:06:41.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "tabuleiro\\Peca.cs",
+              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Peca.cs*",
+              "RelativeToolTip": "tabuleiro\\Peca.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:43:06.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Tela.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Tela.cs",
               "RelativeDocumentMoniker": "Tela.cs",
@@ -104,8 +104,7 @@
               "RelativeToolTip": "Tela.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:56:38.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T13:56:38.411Z"
             },
             {
               "$type": "Document",
