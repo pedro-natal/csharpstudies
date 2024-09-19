@@ -1,49 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\",
+  "WorkspaceRootPath": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\xadrez\\peao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:xadrez\\peao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\xadrez\\dama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:xadrez\\dama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\xadrez\\cavalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:xadrez\\cavalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\xadrez\\bispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:xadrez\\bispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\onedrive\\2015\\documentos\\desenvolvimento\\c#\\csharpstudies\\jogo de xadrez\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\jogo de xadrez\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{509BAEF8-18A7-4AE4-BA04-3504535239CF}|Jogo de Xadrez.csproj|solutionrelative:xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,28 +70,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peao.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Peao.cs",
+              "RelativeDocumentMoniker": "xadrez\\Peao.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Peao.cs",
+              "RelativeToolTip": "xadrez\\Peao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:32:21.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dama.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Dama.cs",
+              "RelativeDocumentMoniker": "xadrez\\Dama.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Dama.cs",
+              "RelativeToolTip": "xadrez\\Dama.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:31:18.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cavalo.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Cavalo.cs",
+              "RelativeDocumentMoniker": "xadrez\\Cavalo.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Cavalo.cs",
+              "RelativeToolTip": "xadrez\\Cavalo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:30:55.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bispo.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Bispo.cs",
+              "RelativeDocumentMoniker": "xadrez\\Bispo.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Bispo.cs",
+              "RelativeToolTip": "xadrez\\Bispo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:30:35.051Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PartidaDeXadrez.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\PartidaDeXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\PartidaDeXadrez.cs",
               "RelativeDocumentMoniker": "xadrez\\PartidaDeXadrez.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\PartidaDeXadrez.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\PartidaDeXadrez.cs",
               "RelativeToolTip": "xadrez\\PartidaDeXadrez.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGYAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAANUAAAAAAAAAAAAAAAQBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T13:50:37.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Program.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,24 +151,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Peca.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Peca.cs",
-              "RelativeDocumentMoniker": "tabuleiro\\Peca.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Peca.cs",
-              "RelativeToolTip": "tabuleiro\\Peca.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "Tabuleiro\\Peca.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\Peca.cs",
+              "RelativeToolTip": "Tabuleiro\\Peca.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:43:06.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T13:43:06.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Tela.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Tela.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tela.cs",
               "RelativeDocumentMoniker": "Tela.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\Tela.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tela.cs",
               "RelativeToolTip": "Tela.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,11 +175,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Torre.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\Torre.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Torre.cs",
               "RelativeDocumentMoniker": "xadrez\\Torre.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\Torre.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Torre.cs",
               "RelativeToolTip": "xadrez\\Torre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,35 +187,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Posicao.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Posicao.cs",
-              "RelativeDocumentMoniker": "tabuleiro\\Posicao.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Posicao.cs",
-              "RelativeToolTip": "tabuleiro\\Posicao.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\Posicao.cs",
+              "RelativeDocumentMoniker": "Tabuleiro\\Posicao.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\Posicao.cs",
+              "RelativeToolTip": "Tabuleiro\\Posicao.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T13:33:29.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Tabuleiro.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Tabuleiro.cs",
-              "RelativeDocumentMoniker": "tabuleiro\\Tabuleiro.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Tabuleiro.cs",
-              "RelativeToolTip": "tabuleiro\\Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "Tabuleiro\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\Tabuleiro.cs",
+              "RelativeToolTip": "Tabuleiro\\Tabuleiro.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAA/wAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T13:46:30.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Rei.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\Rei.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Rei.cs",
               "RelativeDocumentMoniker": "xadrez\\Rei.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\Rei.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\Rei.cs",
               "RelativeToolTip": "xadrez\\Rei.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA9wA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,11 +223,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "PosicaoXadrez.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\PosicaoXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\PosicaoXadrez.cs",
               "RelativeDocumentMoniker": "xadrez\\PosicaoXadrez.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\xadrez\\PosicaoXadrez.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\xadrez\\PosicaoXadrez.cs",
               "RelativeToolTip": "xadrez\\PosicaoXadrez.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,24 +235,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "TabuleiroException.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\TabuleiroException.cs",
-              "RelativeDocumentMoniker": "tabuleiro\\TabuleiroException.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\TabuleiroException.cs",
-              "RelativeToolTip": "tabuleiro\\TabuleiroException.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\TabuleiroException.cs",
+              "RelativeDocumentMoniker": "Tabuleiro\\TabuleiroException.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\TabuleiroException.cs",
+              "RelativeToolTip": "Tabuleiro\\TabuleiroException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T12:57:36.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Cor.cs",
-              "DocumentMoniker": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Cor.cs",
-              "RelativeDocumentMoniker": "tabuleiro\\Cor.cs",
-              "ToolTip": "C:\\Users\\pepel\\OneDrive\\2015\\Documentos\\Desenvolvimento\\C#\\csharpstudies\\Jogo de Xadrez\\tabuleiro\\Cor.cs",
-              "RelativeToolTip": "tabuleiro\\Cor.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\Cor.cs",
+              "RelativeDocumentMoniker": "Tabuleiro\\Cor.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Jogo de Xadrez\\Tabuleiro\\Cor.cs",
+              "RelativeToolTip": "Tabuleiro\\Cor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T13:42:15.744Z"
