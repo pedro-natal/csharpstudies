@@ -1,0 +1,34 @@
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\bin\Debug\net8.0\appsettings.json
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\bin\Debug\net8.0\12 - Razor Pages.staticwebassets.runtime.json
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\bin\Debug\net8.0\12 - Razor Pages.exe
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\bin\Debug\net8.0\12 - Razor Pages.deps.json
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\bin\Debug\net8.0\12 - Razor Pages.runtimeconfig.json
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\bin\Debug\net8.0\12 - Razor Pages.dll
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\bin\Debug\net8.0\12 - Razor Pages.pdb
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\bin\Debug\net8.0\DemoLibrary.dll
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.csproj.AssemblyReference.cache
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.AssemblyInfoInputs.cache
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.AssemblyInfo.cs
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.csproj.CoreCompileInputs.cache
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.RazorAssemblyInfo.cache
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.RazorAssemblyInfo.cs
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.sourcelink.json
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\staticwebassets\msbuild.12 - Razor Pages.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\staticwebassets\msbuild.build.12 - Razor Pages.props
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.12 - Razor Pages.props
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.12 - Razor Pages.props
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\scopedcss\bundle\12 - Razor Pages.styles.css
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\scopedcss\projectbundle\12 - Razor Pages.bundle.scp.css
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Raz.808D0E2F.Up2Date
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.dll
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\refint\12 - Razor Pages.dll
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.pdb
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\12 - Razor Pages.genruntimeconfig.cache
+C:\Users\pepel\Documents\Desenvolvimento\csharpstudies\12 - Razor Pages\obj\Debug\net8.0\ref\12 - Razor Pages.dll
