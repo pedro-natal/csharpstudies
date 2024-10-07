@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Testes T\u00E9cnicos\\Target Sistemas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B137782-E041-4A85-8132-4F08391C5384}|Target Sistemas.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\testes t\u00E9cnicos\\target sistemas\\exerc\u00EDcio 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B137782-E041-4A85-8132-4F08391C5384}|Target Sistemas.csproj|solutionrelative:exerc\u00EDcio 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B137782-E041-4A85-8132-4F08391C5384}|Target Sistemas.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\testes t\u00E9cnicos\\target sistemas\\exerc\u00EDcio 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B137782-E041-4A85-8132-4F08391C5384}|Target Sistemas.csproj|solutionrelative:exerc\u00EDcio 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exerc\u00EDcio 2.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Testes T\u00E9cnicos\\Target Sistemas\\Exerc\u00EDcio 2.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 2.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Testes T\u00E9cnicos\\Target Sistemas\\Exerc\u00EDcio 2.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:54:51.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exerc\u00EDcio 1.cs",
+              "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Testes T\u00E9cnicos\\Target Sistemas\\Exerc\u00EDcio 1.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 1.cs",
+              "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Testes T\u00E9cnicos\\Target Sistemas\\Exerc\u00EDcio 1.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:48:00.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
