@@ -1,0 +1,22 @@
+﻿** Destaques
+     Tabelas que serão recriadas com os dados migrados
+       Nenhum
+     Índices clusterizados que serão removidos
+       Nenhum
+     Índices clusterizados que serão criados
+       Nenhum
+     Possíveis problemas de dados
+       Nenhum
+
+** Ações do usuário
+     Criar
+       [dbo].[Bookings] (Tabela)
+       [dbo].[Guests] (Tabela)
+       [dbo].[Rooms] (Tabela)
+       [dbo].[RoomTypes] (Tabela)
+       Restrição Padrão: restrição sem nome em [dbo].[Bookings] (Restrição Padrão)
+       [dbo].[FK_Bookings_Rooms] (Chave Estrangeira)
+       [dbo].[FK_Bookings_Guests] (Chave Estrangeira)
+       [dbo].[FK_Rooms_RoomTypes] (Chave Estrangeira)
+
+** Ações de suporte
