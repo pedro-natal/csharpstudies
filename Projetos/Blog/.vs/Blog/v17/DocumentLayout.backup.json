@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Projetos\\Blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\projetos\\blog\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\projetos\\blog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\projetos\\blog\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\projetos\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\projetos\\blog\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\projetos\\blog\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6E724E5-D42B-42D5-A9A0-F907623D5FB4}|Blog.csproj|c:\\users\\pepel\\documents\\desenvolvimento\\csharpstudies\\projetos\\blog\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,24 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Projetos\\Blog\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Projetos\\Blog\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:49:01.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:49:01.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Projetos\\Blog\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:48:34.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:48:34.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Projetos\\Blog\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Repositories\\Repository.cs",
@@ -80,25 +78,24 @@
               "RelativeToolTip": "Repositories\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:48:02.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:48:02.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Projetos\\Blog\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Projetos\\Blog\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T20:47:34.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\pepel\\Documents\\Desenvolvimento\\csharpstudies\\Projetos\\Blog\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Models\\Tag.cs",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:46:04.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:46:04.495Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:45:58.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:45:58.601Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Models\\Post.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:45:22.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:45:22.489Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:45:17.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:45:17.209Z"
             }
           ]
         }
